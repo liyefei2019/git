@@ -2,7 +2,6 @@
 git的使用
 
 1 create a new repository on the command line
-
 echo "# git" >> README.md
 git init
 git add README.md
